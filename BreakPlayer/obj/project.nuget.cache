@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6POP1Oz+7JE=",
+  "success": true,
+  "projectFilePath": "/home/matex/Projects/BreakPlayer/BreakPlayer/BreakPlayer.csproj",
+  "expectedPackageFiles": [
+    "/home/matex/.nuget/packages/naudio/2.3.0/naudio.2.3.0.nupkg.sha512",
+    "/home/matex/.nuget/packages/naudio.asio/2.3.0/naudio.asio.2.3.0.nupkg.sha512",
+    "/home/matex/.nuget/packages/naudio.core/2.3.0/naudio.core.2.3.0.nupkg.sha512",
+    "/home/matex/.nuget/packages/naudio.midi/2.3.0/naudio.midi.2.3.0.nupkg.sha512",
+    "/home/matex/.nuget/packages/naudio.wasapi/2.3.0/naudio.wasapi.2.3.0.nupkg.sha512",
+    "/home/matex/.nuget/packages/naudio.winmm/2.3.0/naudio.winmm.2.3.0.nupkg.sha512",
+    "/home/matex/.nuget/packages/netcoreaudio/2.0.1/netcoreaudio.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
