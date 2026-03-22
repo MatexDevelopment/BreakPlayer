@@ -21,3 +21,4 @@
 /home/matex/Projects/BreakPlayer/BreakPlayer/obj/Debug/net10.0/BreakPlayer.genruntimeconfig.cache
 /home/matex/Projects/BreakPlayer/BreakPlayer/obj/Debug/net10.0/ref/BreakPlayer.dll
 /home/matex/Projects/BreakPlayer/BreakPlayer/bin/Debug/net10.0/NetCoreAudio.dll
+/home/matex/Projects/BreakPlayer/BreakPlayer/obj/Debug/net10.0/BreakPlayer.sourcelink.json

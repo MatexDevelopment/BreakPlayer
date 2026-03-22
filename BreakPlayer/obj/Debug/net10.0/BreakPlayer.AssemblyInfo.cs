@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakPlayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfc0bcf5624bfeb919d74a5ef75bea00df39f30e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakPlayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakPlayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
