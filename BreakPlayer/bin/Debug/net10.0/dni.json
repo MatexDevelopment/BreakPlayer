@@ -1,7 +1,7 @@
 {
-  "Monday": "pop",
-  "Tuesday": "rock",
+  "Monday":    "pop",
+  "Tuesday":   "rock",
   "Wednesday": "pop",
-  "Thursday": "pop",
-  "Friday": "klasyki"
+  "Thursday":  "pop",
+  "Friday":    "klasyki"
 }

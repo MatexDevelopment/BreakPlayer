@@ -8,9 +8,12 @@ Gra muzykę według harmonogramu, różne gatunki w różne dni tygodnia.
 ## Wymagania
 
 - .NET 10
-- NAudio (przez NuGet)
+- mpg123
 
-
+Instalacja mpg123 na Fedorze:
+```bash
+sudo dnf install mpg123
+```
 
 ---
 
@@ -63,7 +66,7 @@ Przypisanie gatunku muzyki do dnia tygodnia:
 ## Uruchomienie
 ```bash
 cd ~/Projects/BreakPlayer/BreakPlayer
-dotnet run lub przez VisualStudio
+dotnet run
 ```
 
 ---
@@ -84,8 +87,8 @@ dotnet run lub przez VisualStudio
 
 Wpisz liczbę od 0 do 100 w konsoli podczas działania programu:
 ```
-10
-🔊 Głośność: 10
+80
+🔊 Głośność: 80
 ```
 
 ---
@@ -94,6 +97,7 @@ Wpisz liczbę od 0 do 100 w konsoli podczas działania programu:
 
 | Problem | Rozwiązanie |
 |---|---|
+| `mpg123: nie znaleziono polecenia` | `sudo dnf install mpg123` |
 | `Brak folderu: .../muzyka/pop` | Utwórz folder i wrzuć pliki mp3 |
 | Nie gra w danym dniu | Sprawdź czy dzień jest po angielsku w dni.json |
 | Błąd wczytywania JSON | Sprawdź czy JSON jest poprawny — brak przecinka złamie plik |
